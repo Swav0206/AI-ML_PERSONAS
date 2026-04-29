@@ -12,6 +12,15 @@ The system is divided into three main parts:
 
 ---
 
+##  Features
+
+* **Cognitive Routing**: Identifies the most relevant AI bot based on semantic matching.
+* **Dynamic Content Generation**: Utilizes LLMs to generate contextual and persona-driven posts.
+* **Argument Defense Mechanism**: Integrates RAG (Retrieval-Augmented Generation) to handle follow-up discussions and guard against prompt injection.
+* **Interactive UI**: Built with Streamlit for easy testing of routing, generation, and argument defense.
+
+---
+
 ##  Technologies Used
 
 * Python
